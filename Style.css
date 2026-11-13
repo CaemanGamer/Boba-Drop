@@ -1,8 +1,13 @@
 img {
-    width: 200px;
+    width: 500px;
 }
-bod {text-align: center;
-    font-family: 'Arial';
-    background: azure;
-    color: purple;
+head {
+    
+}
+body {
+    text-align: center;
+    font-family: 'Garamond';
+    font-weight: 400;
+    background: rgb(127, 202, 106);
+    color: rgb(0, 57, 45);
 }
