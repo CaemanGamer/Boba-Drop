@@ -1,7 +1,6 @@
 img {
     width: 500px;
 }
-h1 {font-weight: 800;}
 head {
     
 }
@@ -9,6 +8,10 @@ body {
     text-align: center;
     font-family: 'Garamond';
     font-weight: 400;
-    background: rgb(127, 202, 106);
+    background: rgb(114, 164, 100);
     color: rgb(0, 57, 45);
 }
+h1 {font-weight: 1200;}
+h2 {font-weight: 1000}
+h3 {font-weight: 800}
+h4 {font-weight: 600}
